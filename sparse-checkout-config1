@@ -3,3 +3,4 @@ SparseCheckoutSolution3
 *.sh
 .gitignore
 sparse-checkout-config*
+*sln
