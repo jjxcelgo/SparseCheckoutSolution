@@ -1,0 +1,2 @@
+# SparseCheckoutSolution
+For testing purposes
