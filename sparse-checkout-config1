@@ -1,3 +1,4 @@
 SparseCheckoutSolution1/
 SparseCheckoutSolution3/
 *.sh
+.gitignore

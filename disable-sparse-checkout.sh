@@ -7,5 +7,8 @@ git config --global core.sparseCheckout false
 # Remove the .sparse-checkout file
 rm -f .git/info/sparse-checkout
 
+# Reset the working tree to the last commit
+git reset --hard HEAD
+
 # Update the working tree
-git read-tree -m -u HEAD
+git checkout HEAD
